@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Mongodb**
+- 🔭 I’m currently working on **react, chakra UI**
 
 - 🌱 I’m currently learning **Mongodb**
 
@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codesandbox.io/u/nirajraj00.nk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="niraj kumar" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/pankaj-sharma-62ba8b22a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pankaj sharma" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/niraj-kumar-b66841206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pankaj sharma" height="30" width="40" /></a>
 
 
 
