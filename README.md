@@ -42,7 +42,7 @@
 <!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 | Top Languages | Contribution Graph  |
 | :--- | --- |
-| <img height=200 width=350 src="https://github-readme-stats.vercel.app/api/top-langs?username=nirajraj98&show_icons=true&theme=cobalt" alt="niraj's Language stats" /> |[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nirajraj98&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=ada9a9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)](https://github.com/nirajraj98/github-readme-activity-graph) |
+| <img height=200 width=350 src="https://github-readme-stats.vercel.app/api/top-langs?username=nirajraj98&show_icons=true&theme=cobalt" alt="niraj's Language stats" /> | [![Niraj's github activity graph](https://activity-graph.herokuapp.com/graph?username=nirajraj98&custom_title=This%20is%20a%20title&hide_border=true&theme=gruvbox)] 
 
 
 ![GitHub metrics](https://metrics.lecoq.io/nirajraj98) 
